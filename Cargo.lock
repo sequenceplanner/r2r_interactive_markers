@@ -660,7 +660,7 @@ dependencies = [
 
 [[package]]
 name = "r2r_interactive_markers"
-version = "0.1.0"
+version = "0.0.1"
 dependencies = [
  "futures",
  "r2r",
